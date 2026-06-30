@@ -111,7 +111,7 @@ function App() {
 </a>
 
         <a
-    href="/Shubham_Hariyale_Graduate_Software_Engineer_CV.pdf"
+    href="/Shubham_Hariyale_CV.pdf"
     download
     className="secondary-btn"
 >
