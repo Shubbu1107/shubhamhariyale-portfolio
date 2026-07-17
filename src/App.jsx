@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
-import profilePic from './Images/shubham_Image.jpeg'
+import profilePic from './Images/shubham_Img.jpeg'
 
 
 
@@ -136,8 +136,9 @@ function App() {
     💼 LinkedIn
 </a>
 
+
     <a
-        href="mailto:shubhamhariyale11@gmail.com"
+        href="mailto:shubham.hariyale.uk@gmail.com"
     >
         ✉️ Email
     </a>
@@ -381,7 +382,7 @@ function App() {
 
 
 {/* ABOUT */}
-{/* 
+{/*  jsu test
 <section className="section">
     <h2 className="section-title">About Me</h2>
 
@@ -942,7 +943,7 @@ function App() {
         <div className="footer-links">
 
             <a
-                href="mailto:shubhamhariyale11@gmail.com"
+                href="mailto:shubham.hariyale.uk@gmail.com"
                 target="_blank"
             >
                 ✉️ Email
